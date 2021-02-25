@@ -1,4 +1,4 @@
-#~/usr/bin/env python3
+#!/usr/bin/env python3
 """Prints a band name based on input prompts to sys.stdout."""
 
 #1. Create a greeting for your program.

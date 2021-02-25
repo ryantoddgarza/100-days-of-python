@@ -1,4 +1,4 @@
-#~/usr/bin/env python3
+#!/usr/bin/env python3
 """Split bill with tip amount between `n` number of people."""
 
 bill_amount = float(input("What is the total bill? $"))
